@@ -147,7 +147,7 @@ int main(int argc, char *argv[]) {
 ```
 
 The disassembler was close to it.
-__Now, you know reverse engineering is about: reconstruction. __
+*Now, you know reverse engineering is about: reconstruction.*
 
 ---
 Written by **Arthur Guiot**
