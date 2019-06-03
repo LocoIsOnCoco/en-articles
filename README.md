@@ -1,3 +1,7 @@
-## NOTES TO CONTRIBUTERS!!
-Please DO NOT force push, if there is a issue pushing, send the error in the form of `issue` ticket. 
-### FORCE PUSHING WILL LOOSE DATA ON PREVIOUS VERSIONS AND CONTRIBUTORS 
+# Articles of the English website
+
+This repository contains the articles of the [English version](https://en.hackdown.org) of HackDown.
+
+© 2019 HackDown. All rights reserved.
+
+## Notes for contributors: please do not force push in the repository. Clone it first, then normal-push it.
