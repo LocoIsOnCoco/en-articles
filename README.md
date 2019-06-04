@@ -4,4 +4,4 @@ This repository contains the articles of the [English version](https://en.hackdo
 
 © 2019 HackDown. All rights reserved.
 
-## Notes for contributors: please do not force push in the repository. Clone it first, then normal-push it.
+## Notes for contributors: please do not force push in the repository. Clone it first, add your article, and then push it like normal with `git push`.
