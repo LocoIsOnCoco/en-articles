@@ -1,6 +1,6 @@
 # Articles of the English website
 
-This repository contains the articles of the [English version](https://en.hackdown.org) of HackDown.
+This repository contains the articles for the [English version](https://en.hackdown.org) of HackDown.
 
 © 2019 HackDown. All rights reserved.
 
