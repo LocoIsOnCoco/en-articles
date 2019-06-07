@@ -41,7 +41,7 @@ Make a file in the websites folder named `Caddyfile`, Caddy will look for this f
 
 Perhaps you want to have a universal configuration for php that you can import to save you time, for example. Make the file with the php caddy config, `/home/user/caddyfiles/php` and add this to the appropriete location in your original Caddyfile import `/home/user/caddyfiles/php`
 
-> DISCLAIMER: You must manually make these configs yourself
+> DISCLAIMER: You must manually make these configurations yourself due to the infinite number of possibilities
 
 ### Example Caddyfile.
 
